@@ -1,4 +1,4 @@
 # hello-world
 First GitHub
 
-my name is panda
+My name is panda
